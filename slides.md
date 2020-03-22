@@ -6,7 +6,7 @@ layout: true
 
 class: center, middle
 
-# {title}
+# 12 Factor Apps
 
 Gaurav Agarwal
 
@@ -44,7 +44,7 @@ func main() {
 class: center, middle
 
 Code
-https://github.com/algogrit/presentation-template
+https://github.com/algogrit/presentation-12-factor-apps
 
 Slides
-https://template.slides.algogrit.com
+https://12-factor-apps.slides.algogrit.com
