@@ -207,8 +207,11 @@ class: center, middle
 ---
 class: center, middle
 
-Code
-https://github.com/algogrit/presentation-12-factor-apps
+Reference
+http://12factor.net/
 
 Slides
 https://12-factor-apps.slides.algogrit.com
+
+Further Reading
+https://martinfowler.com/bliki/PhoenixServer.html
